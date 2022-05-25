@@ -9,7 +9,7 @@ The code related to the paper below：Xianghua Li, Xin Qi, Xingjian Liu, Chao Ga
 the files in the flod `Datasets` are all needed datasets in the paper.
 
 ## Reference
-If you make advantage of DGCN in your research, please cite the following in your manuscript:
+If you make advantage of DMFO in your research, please cite the following in your manuscript:
 
 ```
 @article{gao2022novel,
